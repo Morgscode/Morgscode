@@ -1,7 +1,6 @@
 -  👋   Hi, I’m @Morgscode
 -  👀   I’m interested in anything web
--  🌱   I’m currently learning Vue3/Nuxt, Node.JS/Hapi, C#
--  💞️   I’m looking to collaborate on "I wish I had time for more stuff"
+-  🌱   I’m currently learning Node.JS/Hapi, Go/Hugo, C#/.NET
 -  📫   How to reach me https://luke-morgan.com/contact
 
 <!---
