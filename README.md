@@ -1,5 +1,5 @@
 -  👋   Hi, I’m @Morgscode
--  👀   I’m interested in anything web
+-  👀   I’m interested in anything programming related
 -  🌱   I’m currently learning GraphQL, Node.JS/Hapi, C#/.NET
 -  📫   How to reach me https://luke-morgan.com/contact
 
