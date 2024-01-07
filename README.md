@@ -1,6 +1,6 @@
 -  👋   Hi, I’m @Morgscode
 -  👀   I’m interested in anything programming related
--  🌱   I’m currently learning GraphQL, Node.JS/Hapi, C#/.NET
+-  🌱   I’m currently learning C#/.NET, TypeScript, Next.JS
 -  📫   How to reach me https://luke-morgan.com/contact
 
 <!---
