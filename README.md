@@ -1,4 +1,4 @@
--  👋   Hi, I’m @Morgscode
+-  👋   Hi, I’m Luke ( @Morgscode )
 -  👀   I’m interested in anything programming related
 -  🌱   I’m currently focusing on Elixir, TypeScript, Next.JS
 -  📫   How to reach me https://luke-morgan.com/contact
