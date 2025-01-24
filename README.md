@@ -1,6 +1,6 @@
 -  👋   Hi, I’m Luke ( @Morgscode )
 -  👀   I’m interested in anything programming related
--  🌱   I’m currently focusing on Elixir, TypeScript, and React
+-  🌱   I’m currently focusing on Elixir, Phoenix, LiveView and TypeScript.
 -  📫   How to reach me https://luke-morgan.com/contact
 
 <!---
